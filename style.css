@@ -22,9 +22,9 @@ body {
   border: none;
   border-radius: 5px;
   background: #fff;
-  -webkit-box-shadow: 9px 20px 25px -11px rgba(0, 0, 0, 0.61);
-  -moz-box-shadow: 9px 20px 25px -11px rgba(0, 0, 0, 0.61);
-  box-shadow: 9px 20px 25px -11px rgba(0, 0, 0, 0.61);
+  -webkit-box-shadow: 9px 20px 25px -21px rgba(0, 0, 0, 0.61);
+  -moz-box-shadow: 9px 20px 25px -21px rgba(0, 0, 0, 0.61);
+  box-shadow: 9px 20px 25px -21px rgba(0, 0, 0, 0.61);
 }
 
 .form .button {
@@ -37,9 +37,9 @@ body {
   color: #f2f2f2f2;
   font-size: 16px;
   cursor: pointer;
-  -webkit-box-shadow: 9px 20px 25px -11px rgba(0, 0, 0, 0.61);
-  -moz-box-shadow: 9px 20px 25px -11px rgba(0, 0, 0, 0.61);
-  box-shadow: 9px 20px 25px -11px rgba(0, 0, 0, 0.61);
+  -webkit-box-shadow: 9px 20px 25px -21px rgba(0, 0, 0, 0.61);
+  -moz-box-shadow: 9px 20px 25px -21px rgba(0, 0, 0, 0.61);
+  box-shadow: 9px 20px 25px -21px rgba(0, 0, 0, 0.61);
 }
 
 .form .button:hover {
