@@ -4,7 +4,7 @@
     
 
 
-Este pequeño proyecto es perfecto para desarroladores que empiezan. Crea un generador de códigos QR usando una librería externa.
+Este pequeño proyecto es perfecto para desarroladores que empiezan. Crea un **generador de códigos QR** usando una librería externa.
 
 - Introduce la URL.
 - Haz click en el botón.
@@ -28,7 +28,7 @@ Puedes conseguir el script de la librería [aquí](https://cdnjs.com/)
 
 ## Objetivo:
 
-- :raised_hands: Mover las manitas. A programar se aprende programando!
+- :raised_hands: Mover las manitas. **¡A programar se aprende programando!**
 - :books: Usar librerías externas
 - :tada: ¡¡¡Divertirnos!!!
 
